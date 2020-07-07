@@ -4973,10 +4973,9 @@ react-modal@^3.11.2:
     react-lifecycles-compat "^3.0.0"
     warning "^4.0.3"
 
-react-simple-chatbot@^0.6.1:
+"react-simple-chatbot@https://github.com/rachelhs/react-simple-chatbot.git":
   version "0.6.1"
-  resolved "https://registry.yarnpkg.com/react-simple-chatbot/-/react-simple-chatbot-0.6.1.tgz#30d08083e0b0283b78b84312df674e2cd6ac6703"
-  integrity sha512-q9y5GXwBvD+YvLgDVyDuZHYMkrcgIirm1FVV9RkR7XojPmbiX1lCzT6ib8U1M5zh42kTUBRnszXzkAGm9e0K8w==
+  resolved "https://github.com/rachelhs/react-simple-chatbot.git#1faac88ed40d7c9c845a3a674a2b6c494d162ed6"
   dependencies:
     eslint-config-prettier "^4.1.0"
     eslint-plugin-prettier "^3.0.1"
